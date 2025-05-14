@@ -1,0 +1,45 @@
+# 📅 Day 1: Introduction to TypeScript & Project Setup
+
+Welcome to Day 1 of your TypeScript journey! Today, you'll get introduced to what TypeScript is, why it's useful, and how to set it up properly.
+
+---
+
+## 🎯 Goals for Today
+
+- Understand what TypeScript is
+- Learn the benefits of TypeScript over JavaScript
+- Install and set up TypeScript in a project
+- Understand and configure `tsconfig.json`
+- Compile your first TypeScript file
+
+---
+
+## 📌 What is TypeScript?
+
+> TypeScript is a **typed superset of JavaScript** that compiles to plain JavaScript.
+
+### 💡 Key Features:
+- Adds **optional static typing**
+- Offers **powerful IDE support** and auto-completion
+- Helps **catch errors during development**, not runtime
+- Supports **modern JavaScript features** and compiles for older runtimes
+
+---
+
+## ✅ Why Use TypeScript?
+
+| Feature | Benefit |
+|--------|---------|
+| Type Safety | Catch errors at compile-time instead of runtime |
+| Readability | Self-documenting code with types |
+| Tooling | Better IntelliSense, autocompletion, and refactoring |
+| Large Codebases | Easier to scale and maintain |
+
+---
+
+## 🛠️ Installing TypeScript
+
+Install globally via npm:
+
+```bash
+npm install -g typescript
