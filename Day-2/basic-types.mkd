@@ -1,0 +1,20 @@
+# 📅 Day 2: TypeScript Basic Types
+
+Today, you’ll learn how to use **basic types** in TypeScript to ensure variables, functions, and objects are more robust and predictable.
+
+---
+
+## 🎯 Goals for Today
+
+- Understand TypeScript's built-in types
+- Use basic types: `string`, `number`, `boolean`, `null`, `undefined`
+- Learn about `any`, `unknown`, `void`, and `never`
+- Apply type annotations in variables and functions
+
+---
+
+## 🔤 Basic Types
+
+### `string`
+```ts
+let firstName: string = 'Heyaa!!';
