@@ -1,0 +1,26 @@
+# 📅 Day 3: Functions in TypeScript
+
+Welcome to Day 3! Today we’re focusing on how TypeScript enhances JavaScript functions by adding static types for parameters and return values, as well as support for default, optional, and rest parameters.
+
+---
+
+## 🎯 Goals for Today
+
+- Define functions with type annotations
+- Use optional and default parameters
+- Use rest parameters
+- Understand function return types
+- Explore arrow functions with types
+
+---
+
+## 🧩 Function Type Basics
+
+### ✅ Function with typed parameters and return
+
+```ts
+function add(a: number, b: number): number {
+  return a + b;
+}
+
+const result = add(2, 3); // 5
