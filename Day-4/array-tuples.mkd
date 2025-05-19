@@ -1,0 +1,25 @@
+# 📅 Day 4: Arrays and Tuples in TypeScript
+
+Today you’ll dive into how TypeScript handles **arrays** and **tuples**, both of which are core data structures in JavaScript with enhanced type safety in TypeScript.
+
+---
+
+## 🎯 Goals for Today
+
+- Learn how to define and use typed arrays
+- Use type aliases with arrays
+- Understand and work with tuples
+- Compare arrays vs. tuples
+- Practice with real examples
+
+---
+
+## 🧮 Typed Arrays
+
+TypeScript provides strict typing for arrays.
+
+### ✅ Basic Syntax
+
+```ts
+const numbers: number[] = [1, 2, 3];
+const names: string[] = ["Alice", "Bob"];
